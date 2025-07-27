@@ -4,9 +4,7 @@ This repository provides supplementary materials in **Japanese** for understandi
 
 ## About This Repository
 
-The PDF files herein offer an easy-to-understand explanation of the algorithms and applications of PBWT and GPBWT, which are fundamental data structures in genomic analysis.
-
-**Note: The primary content of this repository is written in Japanese.**
+The PDF files herein offer an easy-to-understand explanation of the algorithms and applications of PBWT and GPBWT. Future updates will include materials for other algorithms used in genomic analysis.
 
 ## Based On
 
